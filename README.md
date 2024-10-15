@@ -1,2 +1,2 @@
 # SecureZipRun
-Reflects the zip extraction and execution process with security.
+A gateway controlled by HWID for zip file extraction and executable running
